@@ -2,9 +2,8 @@ from PIL import Image
 import glob
 
 # paths
-testpath = '/Users/federicovalla/Documents/Work/cllla/resarch/scraping/ff/00/ff/11878628_8826132_480.webp'
-dir_origin = '/Users/federicovalla/Documents/Work/cllla/resarch/scraping/ff/00/ff'
-dir_target = '/Users/federicovalla/Documents/Work/cllla/resarch/py/target'
+dir_origin = '{ORIGIN_DIRECTORY}'
+dir_target = '{TARGET_DIRECTORY}'
 
 # indexes
 index = 0
