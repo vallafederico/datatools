@@ -6,5 +6,5 @@ Random dump of utilities related to dataset managing as git clone is easier than
 👀
 
 
-###Online Tools
+### Online Tools
 Spritesheets -> https://www.leshylabs.com/apps/sstool/
