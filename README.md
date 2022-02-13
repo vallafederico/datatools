@@ -17,6 +17,11 @@ Everything is kinda self explanatory I think.
 * Text to Images, upscale (SSRCN) to video. **(WIP)**  
 [Notebook.](https://colab.research.google.com/drive/16K3W6o4RcwarFasU-Jl_Ag-pzQmt7ywK)  
 
+#### SSR (Google)
+* Upscale Image. **(WIP)**  
+[Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  
+
+
 
 ## Tools
 Spritesheets -> [Website.](https://www.leshylabs.com/apps/sstool/)
