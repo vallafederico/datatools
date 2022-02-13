@@ -5,7 +5,7 @@ Random dump of utilities related to dataset managing as git clone is easier than
 
 👀
 
-### JN / COLAB
+## JN / COLAB
 
 #### CC12M-Diffusion) > SSRCN **(WIP)**  
 *Text to Image plus upscale.*  
@@ -19,5 +19,5 @@ Random dump of utilities related to dataset managing as git clone is easier than
 
 
 
-### Online Tools
+## Tools
 Spritesheets -> [Website.](https://www.leshylabs.com/apps/sstool/)
