@@ -14,7 +14,7 @@ Everything is kinda self explanatory I think.
 
 
 #### VQGAN+CLIP
-* Text to Images, upscale (SSRCN) to video. 
+* Text to Images, upscale (SSRCN) to video.  
 [Notebook.](https://colab.research.google.com/drive/16K3W6o4RcwarFasU-Jl_Ag-pzQmt7ywK)  **(WIP)** 
 
 #### SSR (Google)
