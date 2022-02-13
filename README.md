@@ -10,16 +10,16 @@ Everything is kinda self explanatory I think.
 
 #### CC12M-Diffusion > SSRCN
 * Text to Image plus upscale.  
-[Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  **(WIP)** 
+[Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
 
 
 #### VQGAN+CLIP
 * Text to Images, upscale (SSRCN) to video.  
-[Notebook.](https://colab.research.google.com/drive/16K3W6o4RcwarFasU-Jl_Ag-pzQmt7ywK)  **(WIP)** 
+[Notebook.](https://colab.research.google.com/drive/16K3W6o4RcwarFasU-Jl_Ag-pzQmt7ywK)  (WIP)
 
 #### SSR (Google)
 * Upscale Image.  
-[Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  **(WIP)** 
+[Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
 
 
