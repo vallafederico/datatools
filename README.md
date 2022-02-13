@@ -1,7 +1,8 @@
 # datatools
-*Dataset stuffs tools for ML*
+*Dataset stuffs and notebooks*
 
-Random dump of utilities related to dataset managing as git clone is easier than remembering where I saved those. Everything is kinda self explanatory I think.
+Random dump of utilities related to dataset managing as clone is easier than remembering where I saved those.  
+Everything is kinda self explanatory I think.
 
 👀
 
