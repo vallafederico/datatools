@@ -13,7 +13,7 @@ Everything is kinda self explanatory I think.
 [Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
 
 #### DISCO-Diffusion > DDIM (sharpening)
-* Text to Image plus sharpening & video hints 
+* Text to Image plus sharpening & video hints  
 [Notebook.](https://colab.research.google.com/drive/1n6WumysPatSBlk5HtPuncKs_fZZXUk5a)  (PURE FORK)
 
 
