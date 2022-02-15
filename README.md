@@ -12,6 +12,10 @@ Everything is kinda self explanatory I think.
 * Text to Image plus upscale.  
 [Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
 
+#### DISCO-Diffusion > DDIM (sharpening)
+* Text to Image plus sharpening & video hints 
+[Notebook.](https://colab.research.google.com/drive/1n6WumysPatSBlk5HtPuncKs_fZZXUk5a)  (PURE FORK)
+
 
 #### VQGAN+CLIP
 * Text to Images, upscale (SSRCN) to video.  
@@ -20,6 +24,8 @@ Everything is kinda self explanatory I think.
 #### SSR (Google)
 * Upscale Image.  
 [Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
+
+
 
 
 
