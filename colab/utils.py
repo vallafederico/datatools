@@ -1,7 +1,12 @@
 # --------- --------- Check GPU
 
 # GPU -- V100 -- Excellent / P100 -- Very Good / T4 -- Good / K80 -- Meh / P4 -- (Not Recommended)
-!nvidia-smi
+gpu_info = !nvidia-smi
+gpu_info = '\n'.join(gpu_info)
+if gpu_info.find('failed') >= 0:
+  print('Not connected to a GPU')
+else:
+  print(gpu_info)
 
 # --------- --------- Download Assets
 
