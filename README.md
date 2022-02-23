@@ -30,8 +30,9 @@ Everything is kinda self explanatory I think.
 
 
 ## Text Prompts Refs
-[CLIP+VQGAN keyword comparison chart.](https://imgur.com/a/SnSIQRu)
+[CLIP+VQGAN keyword comparison chart.](https://imgur.com/a/SnSIQRu),
+[CLIP+VQGAN Art Styles as percieved by AI.](https://imgur.com/gallery/BZzXLHY)
 
 
-## Tools
+## Genral Tools
 Spritesheets -> [Website.](https://www.leshylabs.com/apps/sstool/)
