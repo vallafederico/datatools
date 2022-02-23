@@ -29,7 +29,8 @@ Everything is kinda self explanatory I think.
 [Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
 
-
+## Text Prompts Refs
+[CLIP+VQGAN keyword comparison chart.](https://imgur.com/a/SnSIQRu)
 
 
 ## Tools
