@@ -22,7 +22,7 @@ Everything is kinda self explanatory I think.
 
 #### DALL-e
 * Text to Images (batch) to video.  
-[IBD.]()  (WIP)
+TBD
 
 #### SSR (Google)
 * Upscale Image.  
