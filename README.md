@@ -14,7 +14,7 @@ Text to Image plus upscale.
 
 ### DISCO-Diffusion > DDIM (sharpening)
 Text to Image plus sharpening & video hints.<br>
-[v1](https://colab.research.google.com/drive/10hq4ldMkKrdMSwyb8Nhi462cfEVc5Sfs)(PURE FORK) <br>  
+[v1](https://colab.research.google.com/drive/10hq4ldMkKrdMSwyb8Nhi462cfEVc5Sfs)(PURE FORK)
 [v2](https://colab.research.google.com/drive/1ZtnOLLiMsdPFEp2JROtmrBO_e_C7lDw2)(PURE FORK)
 
 ### VQGAN+CLIP
