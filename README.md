@@ -6,35 +6,35 @@ Everything is kinda self explanatory I think.
 
 👀
 
-## JN / COLAB
+## JN / Colab
 
-#### CC12M-Diffusion > SSRCN
-Text to Image plus upscale. <br>
-[Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w) (WIP)
-
-#### CC12M-Diffusion > SSRCN
-* Text to Image plus upscale.  
+### CC12M-Diffusion > SSRCN
+Text to Image plus upscale.  
 [Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
 
-#### DISCO-Diffusion > DDIM (sharpening)
-* Text to Image plus sharpening & video hints  
+### DISCO-Diffusion > DDIM (sharpening)
+Text to Image plus sharpening & video hints.<br>
 [Notebook.](https://colab.research.google.com/drive/10hq4ldMkKrdMSwyb8Nhi462cfEVc5Sfs)  (PURE FORK)    
 [V2](https://colab.research.google.com/drive/1ZtnOLLiMsdPFEp2JROtmrBO_e_C7lDw2) (PURE FORK)
 
-#### VQGAN+CLIP
-* Text to Images, upscale (SSRCN) to video.  
+### VQGAN+CLIP
+Text to Images, upscale (SSRCN) to video.<br>
 [Notebook.](https://colab.research.google.com/drive/16K3W6o4RcwarFasU-Jl_Ag-pzQmt7ywK)  (WIP)
 
-#### DALL-e
-* Text to Images (batch) to video.  
+### DALL-e
+Text to Images (batch) to video. <br>
 TBD
 
-#### SSR - Google
-* Super Resolution (Upascale).  
+---
+
+## Tools
+
+### SSR - Google
+Super Resolution (Upascale). <br>
 [Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
-#### ESRGAN (#tools)
-* Upscale (Updated).   
+### ESRGAN (#tools)
+Upscale (Updated). <br>
 [Notebook.](https://colab.research.google.com/drive/1kzsxVMdKn7WEDNgQAVEUr1Z5Q1mFGeDS)  (WIP)
 
 
