@@ -21,11 +21,8 @@ Text to Image plus sharpening & video hints.<br>
 Text to Images, upscale (SSRCN) to video.<br>
 [Notebook.](https://colab.research.google.com/drive/16K3W6o4RcwarFasU-Jl_Ag-pzQmt7ywK)  (WIP)
 
-### DALL-e
-Text to Images (batch) to video. <br>
-TBD
-
----
+### Wips / Changelog: to-add
+Dall-e, (...)
 
 ## Tools
 
