@@ -10,12 +10,12 @@ Everything is kinda self explanatory I think.
 
 ### CC12M-Diffusion > SSRCN
 Text to Image plus upscale.  
-[Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
+[Colab](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
 
 ### DISCO-Diffusion > DDIM (sharpening)
 Text to Image plus sharpening & video hints.<br>
-[v1](https://colab.research.google.com/drive/10hq4ldMkKrdMSwyb8Nhi462cfEVc5Sfs)(PURE FORK)
-[v2](https://colab.research.google.com/drive/1ZtnOLLiMsdPFEp2JROtmrBO_e_C7lDw2)(PURE FORK)
+[Colab v1](https://colab.research.google.com/drive/10hq4ldMkKrdMSwyb8Nhi462cfEVc5Sfs)(PURE FORK),
+[Colab v2](https://colab.research.google.com/drive/1ZtnOLLiMsdPFEp2JROtmrBO_e_C7lDw2)(PURE FORK)
 
 ### VQGAN+CLIP
 Text to Images, upscale (SSRCN) to video.<br>
@@ -28,11 +28,11 @@ Dall-e, (...)
 
 ### SSR, Google
 Super Resolution (Upascale). <br>
-[Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
+[Colab](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
 ### ESRGAN
 Upscale (Updated). <br>
-[Notebook.](https://colab.research.google.com/drive/1kzsxVMdKn7WEDNgQAVEUr1Z5Q1mFGeDS)  (WIP)
+[Colab](https://colab.research.google.com/drive/1kzsxVMdKn7WEDNgQAVEUr1Z5Q1mFGeDS)  (WIP)
 
 
 
@@ -43,4 +43,4 @@ Upscale (Updated). <br>
 
 
 ## Genral Tools
-Spritesheets -> [Website.](https://www.leshylabs.com/apps/sstool/)
+Spritesheets -> [Website](https://www.leshylabs.com/apps/sstool/)
