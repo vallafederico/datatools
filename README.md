@@ -26,11 +26,11 @@ Dall-e, (...)
 
 ## Tools
 
-### SSR - Google
+### SSR, Google
 Super Resolution (Upascale). <br>
 [Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
-### ESRGAN (#tools)
+### ESRGAN
 Upscale (Updated). <br>
 [Notebook.](https://colab.research.google.com/drive/1kzsxVMdKn7WEDNgQAVEUr1Z5Q1mFGeDS)  (WIP)
 
