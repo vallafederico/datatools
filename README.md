@@ -15,6 +15,7 @@ Everything is kinda self explanatory I think.
 #### DISCO-Diffusion > DDIM (sharpening)
 * Text to Image plus sharpening & video hints  
 [Notebook.](https://colab.research.google.com/drive/10hq4ldMkKrdMSwyb8Nhi462cfEVc5Sfs)  (PURE FORK)
+[V2](https://colab.research.google.com/drive/1ZtnOLLiMsdPFEp2JROtmrBO_e_C7lDw2) (PURE FORK)
 
 #### VQGAN+CLIP
 * Text to Images, upscale (SSRCN) to video.  
