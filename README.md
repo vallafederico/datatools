@@ -28,6 +28,12 @@ TBD
 * Upscale Image.  
 [Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
+#### ESRGAN (Google)
+* Upscale (Updated)   
+[Notebook.](https://colab.research.google.com/drive/1kzsxVMdKn7WEDNgQAVEUr1Z5Q1mFGeDS)  (WIP)
+
+
+
 
 ## Text Prompts Refs
 - [CLIP+VQGAN keyword comparison chart.](https://imgur.com/a/SnSIQRu)
