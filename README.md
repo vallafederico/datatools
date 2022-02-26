@@ -24,12 +24,12 @@ Everything is kinda self explanatory I think.
 * Text to Images (batch) to video.  
 TBD
 
-#### SSR (Google)
-* Upscale Image.  
+#### SSR - Google
+* Super Resolution (Upascale).  
 [Notebook.](https://colab.research.google.com/drive/1BMJv-9ULCD5kIpEVNOgV_SCUliAlUTGI)  (WIP)
 
-#### ESRGAN (Google)
-* Upscale (Updated)   
+#### ESRGAN (#tools)
+* Upscale (Updated).   
 [Notebook.](https://colab.research.google.com/drive/1kzsxVMdKn7WEDNgQAVEUr1Z5Q1mFGeDS)  (WIP)
 
 
