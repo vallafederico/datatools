@@ -9,6 +9,10 @@ Everything is kinda self explanatory I think.
 ## JN / COLAB
 
 #### CC12M-Diffusion > SSRCN
+Text to Image plus upscale. <br>
+[Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w) (WIP)
+
+#### CC12M-Diffusion > SSRCN
 * Text to Image plus upscale.  
 [Notebook.](https://colab.research.google.com/drive/1Pyx2Z7qDE003R2C0Vo5mFAu0oDUCXM7w)  (WIP)
 
