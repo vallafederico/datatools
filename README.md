@@ -34,14 +34,10 @@ TBD
 
 
 
-
 ## Text Prompts Refs
 - [CLIP+VQGAN keyword comparison chart.](https://imgur.com/a/SnSIQRu)
 - [CLIP+VQGAN Art Styles as percieved by AI (RD.](https://imgur.com/gallery/BZzXLHY)
 - [Artist Studies (RD).](https://remidurant.com/artists/)
-
-
-
 
 
 ## Genral Tools
